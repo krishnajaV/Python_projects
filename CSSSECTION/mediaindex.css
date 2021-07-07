@@ -1,0 +1,22 @@
+.row{
+    width: 100%;
+    min-height: 500px;
+    background-color: rgb(147, 223, 219);
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    width: 300px;
+    min-height: 300px;
+    background-color: violet;
+}
+@media(max-width:650px) 
+{
+   .col{
+      margin-top: 5px;
+   }
+   .row{
+       flex-direction: column;
+       align-items: center;
+   }
+} */

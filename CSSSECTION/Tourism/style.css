@@ -1,0 +1,25 @@
+/* tagname  or id or classname{
+property1:value1
+property2:value2
+
+
+propertyn:valuen
+}*/
+body{
+    background-color: darksalmon;
+    background-image:url(images/7a075ae77e31249f5585f38cbeb77dd0.jpg);
+}
+
+
+#headone{
+    color: hotpink;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.book-name{
+    color: darkorchid;
+    text-decoration: underline;
+}
+.novels{
+    color: #7303fc;
+}

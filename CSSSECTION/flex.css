@@ -1,0 +1,28 @@
+.row{
+    widows: 800px;
+    height: 500px;
+    background-color: wheat;
+    border: 1px solid black;
+    display: flex;
+     justify-content: flex-end; 
+    justify-content: space-around;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    align-items: center;
+} 
+.col{
+    width: 200px;
+    height: 200px;
+}
+.col-1{
+    background-color: yellowgreen;
+}
+.col-2{
+
+    background-color: turquoise;
+    flex: 1;
+}
+.col-3{
+    background-color: blue;
+             
+}

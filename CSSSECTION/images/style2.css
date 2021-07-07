@@ -1,0 +1,33 @@
+body{
+    background-color: darksalmon;
+    background-image:url(image.jpg);
+}
+
+
+#h1{
+    color: hotpink;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.book-name{
+    color: darkorchid;
+    text-decoration: underline;
+}
+.novels{
+    color: #7303fc;
+}
+.movie{
+ color: aliceblue;  
+ border-width: 1px; 
+ border-style: solid;
+ border-color: azure;
+ width: 22%;
+ margin-right:20px;
+ float: left;  
+ padding:20px;
+                          ;
+}
+.content{
+    text-align: justify;
+    line-height: 30px;
+}

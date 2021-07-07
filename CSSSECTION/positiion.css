@@ -1,0 +1,51 @@
+div{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+}
+body{
+    height: 100px;
+}
+.parent{
+    width: 95%;
+    height: 210px;
+    background-color: yellow;
+    border: 1px solid black;
+    position: relative;
+    margin: 20px;
+    left: 50px;
+}
+.first{
+    background-color: aquamarine;
+    /* position: absolute;
+    bottom: 0;
+    right: 0; */
+    left: 80%;
+}
+.second{
+    background-color: tomato;
+    position: absolute;
+    left: 20px;
+    top: 0%;
+}
+.third{
+    background-color: slategrey;
+    position: absolute;
+    top: 0%;
+    left: 626px;
+}
+.fourth{
+    background-color: sienna;
+    position: absolute;
+    top: 0;
+    left: 930px;
+}
+
+/* .fxd{
+    background-color: slategray;
+    position: fixed;
+} */
+/* .sticky{
+    background-color: olive;
+    position: sticky;
+} */
